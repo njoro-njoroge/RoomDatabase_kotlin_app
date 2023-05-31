@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomDatabase app</string>
+    <string name="add_user">Add user</string>
+
+    <string name="hint_word">Name...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Name not saved because it is empty.</string>
+    <string name="add_word">Add user</string>
+
+</resources>
